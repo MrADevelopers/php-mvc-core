@@ -1,0 +1,10 @@
+{
+    "name": "mradevelopers/php-mvc",
+    "authors": [
+        {
+            "name": "Ali Haider",
+            "email": "alihaider47125@gmail.com"
+        }
+    ],
+    "require": {}
+}
