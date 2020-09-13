@@ -1,9 +1,9 @@
 <?php
 
 
-namespace app\core;
+namespace mradevelopers\phpmvc;
 
-use app\core\exceptions\NotFoundException;
+use mradevelopers\phpmvc\exceptions\NotFoundException;
 
 class Router
 {

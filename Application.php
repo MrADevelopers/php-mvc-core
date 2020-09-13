@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace mradevelopers\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use mradevelopers\phpmvc\db\Database;
+use mradevelopers\phpmvc\db\DbModel;
 
 class Application
 {

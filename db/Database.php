@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace mradevelopers\phpmvc\db;
 
 use app\migrations\m0001_initial;
-use app\core\Application;
+use mradevelopers\phpmvc\Application;
 
 class Database
 {

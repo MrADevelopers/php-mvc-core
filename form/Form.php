@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace mradevelopers\phpmvc\form;
 
-use app\core\model;
+use mradevelopers\phpmvc\model;
 
 class Form
 {

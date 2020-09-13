@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace mradevelopers\phpmvc;
 
-use app\core\middlewares\AuthMiddleware;
-use app\core\middlewares\BaseMiddleware;
+use mradevelopers\phpmvc\middlewares\AuthMiddleware;
+use mradevelopers\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

@@ -6,5 +6,10 @@
             "email": "alihaider47125@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "mradevelopers\\phpmvc":"./"
+        }
+    }
 }
